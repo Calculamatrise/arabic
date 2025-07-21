@@ -1,6 +1,6 @@
 const table = document.querySelector('table#definitions>tbody');
 
-await fetch('/words.json')
+await fetch('words.json')
 	.then(r => r.json())
 	.then(d => d.forEach(addDef));
 
