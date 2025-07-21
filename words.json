@@ -57,5 +57,245 @@
 		"ar": "أَيْنَ...؟",
 		"dz": "وِينْ...؟",
 		"phonetic": "ʾayna...?"
+	},
+	{
+		"en": "Friend",
+		"ar": "صَدِيقٌ",
+		"dz": "صَاحْبْ",
+		"phonetic": "ṣadīqun"
+	},
+	{
+		"en": "Street",
+		"ar": "شَارِعٌ",
+		"dz": "زْنْقَة",
+		"phonetic": "shāriʿun"
+	},
+	{
+		"en": "Money",
+		"ar": "مَالٌ",
+		"dz": "دْرَاهِمْ",
+		"phonetic": "mālun"
+	},
+	{
+		"en": "Car",
+		"ar": "سَيَّارَةٌ",
+		"dz": "طُومُوبِيلْ",
+		"phonetic": "sayyāratun"
+	},
+	{
+		"en": "Bus",
+		"ar": "حَافِلَةٌ",
+		"dz": "طُوبِيسْ",
+		"phonetic": "ḥāfilatun"
+	},
+	{
+		"en": "Market",
+		"ar": "سُوقٌ",
+		"dz": "سُوقْ",
+		"phonetic": "sūqun"
+	},
+	{
+		"en": "Shop",
+		"ar": "مَتْجَرٌ",
+		"dz": "مَحَلّ",
+		"phonetic": "matjarun"
+	},
+	{
+		"en": "Toilet",
+		"ar": "دَوْرَةُ ٱلْمِيَاهِ",
+		"dz": "طُوَالِيطْ",
+		"phonetic": "dawrat al-miyāh"
+	},
+	{
+		"en": "Mosque",
+		"ar": "مَسْجِدٌ",
+		"dz": "جَامْعْ",
+		"phonetic": "masjidun"
+	},
+	{
+		"en": "Prayer",
+		"ar": "صَلَاةٌ",
+		"dz": "صَلَاة",
+		"phonetic": "ṣalātun"
+	},
+	{
+		"en": "Phone",
+		"ar": "هَاتِفٌ",
+		"dz": "تِلِيفُونْ",
+		"phonetic": "hātifun"
+	},
+	{
+		"en": "Work",
+		"ar": "عَمَلٌ",
+		"dz": "خْدْمَة",
+		"phonetic": "ʿamalun"
+	},
+	{
+		"en": "School",
+		"ar": "مَدْرَسَةٌ",
+		"dz": "قْرَايَة",
+		"phonetic": "madrasatun"
+	},
+	{
+		"en": "Doctor",
+		"ar": "طَبِيبٌ",
+		"dz": "طْبِيبْ",
+		"phonetic": "ṭabībun"
+	},
+	{
+		"en": "Hospital",
+		"ar": "مُسْتَشْفًى",
+		"dz": "سْبِيتَارْ",
+		"phonetic": "mustashfā"
+	},
+	{
+		"en": "Taxi",
+		"ar": "سَيَّارَةُ أُجْرَةٍ",
+		"dz": "طَاكْسِي",
+		"phonetic": "sayyārat ujrah"
+	},
+	{
+		"en": "Left",
+		"ar": "يَسَارٌ",
+		"dz": "ليَسْرَى",
+		"phonetic": "yasārun"
+	},
+	{
+		"en": "Right",
+		"ar": "يَمِينٌ",
+		"dz": "ليَمْنَى",
+		"phonetic": "yamīnun"
+	},
+	{
+		"en": "Straight",
+		"ar": "مُسْتَقِيمٌ",
+		"dz": "دْغِيرْ",
+		"phonetic": "mustaqīmun"
+	},
+	{
+		"en": "Stop",
+		"ar": "تَوَقَّفْ",
+		"dz": "وْقَفْ",
+		"phonetic": "tawaqqaf"
+	},
+	{
+		"en": "Bread",
+		"ar": "خُبْزٌ",
+		"dz": "خُبْزْ",
+		"phonetic": "khubzun"
+	},
+	{
+		"en": "Tea",
+		"ar": "شَايٌ",
+		"dz": "أَتَايْ",
+		"phonetic": "shāyun"
+	},
+	{
+		"en": "Coffee",
+		"ar": "قَهْوَةٌ",
+		"dz": "قَهْوَة",
+		"phonetic": "qahwatun"
+	},
+	{
+		"en": "Chair",
+		"ar": "كُرْسِيٌّ",
+		"dz": "كُرْسِي",
+		"phonetic": "kursiyyun"
+	},
+	{
+		"en": "Table",
+		"ar": "طَاوِلَةٌ",
+		"dz": "طَابْلَا",
+		"phonetic": "ṭāwilatun"
+	},
+	{
+		"en": "Window",
+		"ar": "نَافِذَةٌ",
+		"dz": "رُوشْنَة",
+		"phonetic": "nāfidhatun"
+	},
+	{
+		"en": "Door",
+		"ar": "بَابٌ",
+		"dz": "بَابْ",
+		"phonetic": "bābun"
+	},
+	{
+		"en": "House",
+		"ar": "بَيْتٌ",
+		"dz": "دَارْ",
+		"phonetic": "baytun"
+	},
+	{
+		"en": "Shoe",
+		"ar": "حِذَاءٌ",
+		"dz": "صْبَاطْ",
+		"phonetic": "ḥidhāʾun"
+	},
+	{
+		"en": "Clothes",
+		"ar": "مَلَابِسُ",
+		"dz": "حْوَايْجْ",
+		"phonetic": "malābisu"
+	},
+	{
+		"en": "Keys",
+		"ar": "مَفَاتِيحُ",
+		"dz": "سْوَارَة",
+		"phonetic": "mafātīḥu"
+	},
+	{
+		"en": "Knife",
+		"ar": "سِكِّينٌ",
+		"dz": "مُوسْ",
+		"phonetic": "sikkīnun"
+	},
+	{
+		"en": "Fork",
+		"ar": "شَوْكَةٌ",
+		"dz": "فُورْشِيطْ",
+		"phonetic": "shawkatun"
+	},
+	{
+		"en": "Spoon",
+		"ar": "مِلْعَقَةٌ",
+		"dz": "مِغْرَفَة",
+		"phonetic": "milʿaqatun"
+	},
+	{
+		"en": "Pen",
+		"ar": "قَلَمٌ",
+		"dz": "سْتِيلُو",
+		"phonetic": "qalamun"
+	},
+	{
+		"en": "Book",
+		"ar": "كِتَابٌ",
+		"dz": "كْتَابْ",
+		"phonetic": "kitābun"
+	},
+	{
+		"en": "Notebook",
+		"ar": "دَفْتَرٌ",
+		"dz": "كَرَّاسْ",
+		"phonetic": "daftarun"
+	},
+	{
+		"en": "Computer",
+		"ar": "حَاسُوبٌ",
+		"dz": "أُورْدِينَاتُورْ",
+		"phonetic": "ḥāsūbun"
+	},
+	{
+		"en": "Internet",
+		"ar": "إِنْتَرْنِتْ",
+		"dz": "نِيتْ",
+		"phonetic": "internet"
+	},
+	{
+		"en": "Light",
+		"ar": "ضَوْءٌ",
+		"dz": "ضُو",
+		"phonetic": "ḍawʾun"
 	}
 ]
