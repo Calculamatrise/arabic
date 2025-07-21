@@ -1,0 +1,61 @@
+[
+	{
+		"en": "Hello",
+		"ar": "مَرْحَبًا",
+		"dz": "سْلَامْ",
+		"phonetic": "marḥaban"
+	},
+	{
+		"en": "Goodbye",
+		"ar": "إِلَى ٱللِّقَاءِ",
+		"dz": "بْصَحَّة",
+		"phonetic": "ʾilā al-liqāʾ"
+	},
+	{
+		"en": "Please",
+		"ar": "مِنْ فَضْلِكَ",
+		"dz": "عَفَاكْ",
+		"phonetic": "min faḍlika"
+	},
+	{
+		"en": "Thank you",
+		"ar": "شُكْرًا",
+		"dz": "بَارَكْ ٱللّٰهْ فِيكْ",
+		"phonetic": "shukran"
+	},
+	{
+		"en": "Yes",
+		"ar": "نَعَمْ",
+		"dz": "آهْ",
+		"phonetic": "naʿam"
+	},
+	{
+		"en": "No",
+		"ar": "لَا",
+		"phonetic": "lā"
+	},
+	{
+		"en": "Water",
+		"ar": "مَاء",
+		"dz": "مَا",
+		"phonetic": "māʾ"
+	},
+	{
+		"en": "Food",
+		"ar": "طَعَامٌ",
+		"dz": "مَاكْلَة",
+		"phonetic": "ṭaʿāmun"
+	},
+	{
+		"en": "How much?",
+		"ar": "بِكَمْ؟",
+		"dz": "بْشْحَال؟",
+		"phonetic": "bikam?"
+	},
+	{
+		"en": "Where is...?",
+		"ar": "أَيْنَ...؟",
+		"dz": "وِينْ...؟",
+		"phonetic": "ʾayna...?"
+	}
+]
