@@ -9,6 +9,7 @@ await fetch('words.json')
 function addDef(def) {
 	const row = document.createElement('tr')
 		, en = row.appendChild(document.createElement('td'));
+	def.persist && row.classList.add('persist');
 	en.textContent = def.en;
 	const ar = row.appendChild(document.createElement('td'));
 	ar.textContent = def.ar;
@@ -24,7 +25,8 @@ function addDef(def) {
 const search = document.querySelector('input[type="search"]');
 
 search.addEventListener('input', function() {
-	const defs = Array.from(table.querySelectorAll('tr'));
+	const defs = Array.from(table.querySelectorAll('tr'))
+		.filter(def => !def.classList.contains('persist'));
 	for (const def of defs)
 		def.removeAttribute('hidden');
 
